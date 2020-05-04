@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "300a0aba7f88f4587095d097baf365f1",
+    "revision": "64f43743541650eae8c54f3742c587d0",
     "url": "/React-emoji-search/index.html"
   },
   {
